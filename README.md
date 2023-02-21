@@ -6,6 +6,6 @@ Program běží jako služba v OS Windows. Služba funguje na principu čtení n
 1. Datum a čas
 1. Z které brány auto přijelo
 
-Následně vytvoří SQL řetězec a pošel záznam na základě Connection String.
+Následně vytvoří SQL řetězec a pošle záznam na základě Connection String.
 
-Služba je otestovaná na Windows 11, kde běží několik týdnů za sebou bez problému.
+Služba je otestovaná na Windows 11, kde běží dlouhodobě bez problému.
