@@ -1,5 +1,4 @@
-# Program pro sledování průjezdu aut bránami - Weppler
-![alt text](weppler_group.png "Title")
+# Program pro sledování průjezdu aut bránami
 
 Program běží jako služba v OS Windows. Služba funguje na principu čtení názvu souboru, jakmile přijde nový soubor, přečte název souboru a určí:
 1. SPZ
@@ -8,4 +7,4 @@ Program běží jako služba v OS Windows. Služba funguje na principu čtení n
 
 Následně vytvoří SQL řetězec a pošle záznam na základě Connection String.
 
-Služba je otestovaná na Windows 11, kde běží dlouhodobě bez problému.
+Služba je dlouhodobě otestovaná na Windows 11.
